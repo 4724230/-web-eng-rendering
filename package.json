@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "check": "tsc --noEmit",
+    "build": "tsc",
+    "start": "pnpm dlx serve ."
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0"
+  }
+}
